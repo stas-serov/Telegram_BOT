@@ -1,0 +1,6 @@
+﻿Successful search for a car with a number : ВН2433НН
+Successful search for a car with a number : ВН2429НН
+Successful search for a car with a number : АС4892ВН
+Successful search for a car with a number : ВН2429НН
+Unsuccessful search for a car with a number : УУКЕУКЕ
+Successful search for a car with a number : АО4532АА
